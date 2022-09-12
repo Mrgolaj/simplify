@@ -3,8 +3,8 @@
 
  Directory of C:\Users\KEDI\Desktop\firstgitproject
 
-09/09/2022  10:55 PM    <DIR>          .
-09/09/2022  10:55 PM    <DIR>          ..
-09/09/2022  10:55 PM                 0 test1.txt
+09/12/2022  10:56 PM    <DIR>          .
+09/12/2022  10:56 PM    <DIR>          ..
+09/12/2022  10:56 PM                 0 test1.txt
                1 File(s)              0 bytes
-               2 Dir(s)  344,861,945,856 bytes free
+               2 Dir(s)  331,031,007,232 bytes free
